@@ -4,6 +4,9 @@
 
 **Object detection in video**
 
+<img src="./images/img_1.jpg" alt="drawing" width="550"/>
+<br>
+
 In this Python project the [Google Cloud Vision API](https://cloud.google.com/vision/docs/libraries) is used to detect objects in a video. An annotated version of the video is returned.
 
 Link to annotated video: https://youtu.be/IACi8YkFFJU
