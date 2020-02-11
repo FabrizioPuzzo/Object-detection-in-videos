@@ -34,7 +34,7 @@ Packeges:
 
 ### Examples of annotated images
 
-The annotation includes a bounding box, the label and the a certainty value. The certainty value ranges from 0 (uncertain) to 1 (certain) and is displayed next to the label 
+The annotation includes a bounding box, the label and the a certainty value. The certainty value ranges from 0 (uncertain) to 1 (certain) and is displayed next to the label. 
 
 
 <center> <h4>Center image</h4> </center>
