@@ -9,7 +9,7 @@
 
 In this Python project the [Google Cloud Vision API](https://cloud.google.com/vision/docs/libraries) is used to detect objects in a video. An annotated version of the video is returned.
 
-Link to annotated video: https://youtu.be/IACi8YkFFJU
+Link to annotated video: https://www.youtube.com/watch?v=HLywAP-tRTU
 
 ---
 ### Files inculded
